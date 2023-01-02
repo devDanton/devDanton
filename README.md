@@ -1,4 +1,4 @@
-<img align="right" height="550em" src="./assets/@devDanton.svg">
+<img align="right" height="590em" src="./assets/@devDanton.svg">
 <br></br>
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Danton </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devDanton&color=red" alt="Profile views" /> </p>
