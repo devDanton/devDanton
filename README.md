@@ -1,11 +1,10 @@
 <img align="right" height="470em" src="./assets/@devDanton.svg">
-<br></br>
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Danton </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devDanton&color=red" alt="Profile views" /> </p>
 
 - 🎓I'm a recent graduate student in Systems Analysis and Development looking for my first job.
   
-- 👨‍💻 I am currently working on some projects for my <a href="https://devdanton.github.io/devlinks/" target="_blank">portfolio</a>
+- 👨‍💻 I am currently working on some projects for my <a target="_blank" href="https://devdanton.github.io/devlinks/" >portfolio</a>.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.JS**
 
