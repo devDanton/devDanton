@@ -1,14 +1,12 @@
-<img align="right" height="470em" src="./assets/@devDanton.svg">
+<img align="right" height="400px" src="./assets/@devDanton.svg">
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Danton </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devDanton&color=red" alt="Profile views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=devDanton&color=red" alt="Profile views" /> </p>
 
 - 🎓I'm a recent graduate student in Systems Analysis and Development looking for my first job.
   
 - 👨‍💻 I am currently working on some projects for my <a target="_blank" href="https://devdanton.github.io/devlinks/" >portfolio</a>.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.JS**
-
-<br></br>
 
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-<br><br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align="center">
@@ -32,7 +30,6 @@
 </p>
 
 ## Contact
-
 <p align="center"
 style="background:#9ACFFF"
 >
@@ -50,22 +47,7 @@ style="background:#9ACFFF"
 </a>
 </p>
 
-<!--
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<!--
-**devDanton/devDanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **devDanton/devDanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
