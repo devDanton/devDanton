@@ -27,14 +27,16 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devDanton&show_icons=true&theme=react" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=react" alt="maykbrito's most languages"/>
 </p>
 
 ## Contact
 
-<p align="center" style="background:#9ACFFF">
+<p align="center"
+style="background:#9ACFFF"
+>
 <a href="[https://](https://www.instagram.com/danton_0/)" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-@danton-05122A?style=flat&logo=instagram" alt="Instagram"/>  
 </a>
