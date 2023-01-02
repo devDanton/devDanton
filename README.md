@@ -5,7 +5,7 @@
 
 - 🎓I'm a recent graduate student in Systems Analysis and Development looking for my first job.
   
-- 👨‍💻 I am currently working on some projects for my [portfolio](https://devdanton.github.io/devlinks/)
+- 👨‍💻 I am currently working on some projects for my <a href="https://devdanton.github.io/devlinks/" target="_blank">portfolio</a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.JS**
 
