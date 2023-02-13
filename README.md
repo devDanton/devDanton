@@ -1,5 +1,7 @@
-<img align="right" height="400px" src="./assets/@devDanton.svg">
+<img height="400" src="./assets/@devDanton.svg">
+
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Danton </h1>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devDanton&color=red" alt="Profile views" /> </p>
 
 - 🎓I'm a recent graduate student in Systems Analysis and Development looking for my first job.
@@ -21,6 +23,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
