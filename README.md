@@ -28,7 +28,7 @@
   
 - 💼Estou em busca de uma vaga como Desenvolvedor Front-End.
   
-- 👨‍💻 Estou trabalhando em projetos para meu <a target="_blank" href="https://devdanton.github.io/devlinks/" >Portfólio</a>.
+- 👨‍💻 Veja meu <a target="_blank" href="https://devdanton.github.io/devlinks/" >Portfólio</a>.
 
 - 💬 Pergunte-me sobre **HTML, CSS, JavaScript, PostGreeSQL, NodeJs, React, React Native, Vite, TailWindCSS, Prisma, Figma**
 
@@ -48,9 +48,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp; -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<div style="display: flex; justify-content: center; gap: 0.5em; flex-wrap: wrap;">
-<img width="230em" src="https://github-readme-stats.vercel.app/api?username=devDanton&show_icons=true&theme=dracula" alt="devdanton's stats"/>
-<img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanton&layout=compact&theme=dracula" alt="devdanton's most languages"/>
+<div align="center">
+<img width="330em" src="https://github-readme-stats.vercel.app/api?username=devDanton&show_icons=true&theme=dracula" alt="devdanton's stats"/>
+<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanton&layout=compact&theme=dracula" alt="devdanton's most languages"/>
 </div>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Danton%20da%20Rosa%20Abreu-1e72c5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dantondarosa/)](https://www.linkedin.com/in/dantondarosa/)
