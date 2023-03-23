@@ -1,4 +1,6 @@
-## Olá, eu sou o Danton. Seja bem vindo ao meu GitHub!</h3>
+<hr>
+<h4 align="center"> Olá, eu sou o Danton. Seja bem vindo ao meu GitHub!</h4>
+<hr>
 
 <div align="center">
 <img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -32,6 +34,13 @@
 
 - 💬 Pergunte-me sobre **HTML, CSS, JavaScript, PostGreeSQL, NodeJs, React, React Native, Vite, TailWindCSS, Prisma, Figma**
 
+<div align="center">
+<img width="330em" src="https://github-readme-stats.vercel.app/api?username=devDanton&show_icons=true&theme=dracula" alt="devdanton's stats"/>
+<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanton&layout=compact&theme=dracula" alt="devdanton's most languages"/>
+</div>
+
+<hr>
+
 <!-- ## 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -48,10 +57,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp; -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<div align="center">
-<img width="330em" src="https://github-readme-stats.vercel.app/api?username=devDanton&show_icons=true&theme=dracula" alt="devdanton's stats"/>
-<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanton&layout=compact&theme=dracula" alt="devdanton's most languages"/>
-</div>
+
+
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Danton%20da%20Rosa%20Abreu-1e72c5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dantondarosa/)](https://www.linkedin.com/in/dantondarosa/)
 [![Github Badge](https://img.shields.io/badge/-devDanton-161b22?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/devDanton)](https://github.com/devDanton)
