@@ -26,9 +26,9 @@
 
 <hr>
 
-- 🎓Graduado em Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
   
-- 💼Estou em busca de uma vaga como Desenvolvedor Front-End.
+- 💼 Estou em busca de uma vaga como Desenvolvedor Front-End.
   
 - 👨‍💻 Veja meu <a target="_blank" href="https://devdanton.github.io/portfolio/" >Portfólio</a>.
 
