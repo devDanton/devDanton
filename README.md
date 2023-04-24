@@ -30,7 +30,7 @@
   
 - 💼Estou em busca de uma vaga como Desenvolvedor Front-End.
   
-- 👨‍💻 Veja meu <a target="_blank" href="https://devdanton.github.io/devlinks/" >Portfólio</a>.
+- 👨‍💻 Veja meu <a target="_blank" href="https://devdanton.github.io/portfolio/" >Portfólio</a>.
 
 - 💬 Pergunte-me sobre **HTML, CSS, JavaScript, PostGreeSQL, NodeJs, React, React Native, Vite, TailWindCSS, Prisma, Figma**
 
